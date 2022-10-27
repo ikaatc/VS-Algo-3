@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace VS_Algo_3
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
-        {
-        }
+        //array to be searched
+        int[] arr = new int[20];
+        //number of element in the array
+        int n;
+        //get the number of element to store in the array
+        int i;
     }
 }
